@@ -1,3 +1,4 @@
+// @ts-expect-error
 import { Image } from 'node-webpmux'
 import { TextEncoder } from 'util'
 import { Metadata } from '../../Types'
